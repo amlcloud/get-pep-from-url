@@ -18,6 +18,6 @@ $ pip install -r requirements.txt
 ```
 
 Create a python file in the repository called needed_vars.py and write it as such:
-![image](https://user-images.githubusercontent.com/101044075/215335146-00aebd92-8f9e-4aa3-9ac0-9a80e025b655.png)
+![image](https://user-images.githubusercontent.com/101044075/217452803-ef689ce3-3837-4987-a211-81ddb7b080db.png)
 
 To run the project, run the pepTest.py file. All the data will be stored in the test.csv file.
