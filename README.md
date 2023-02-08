@@ -17,7 +17,7 @@ To setup this project, install the files in the txt files using npm/cmd:
 $ pip install -r requirements.txt
 ```
 
-Create a python file in the repository called needed_vars.py and write it as such:
+Create a python file in the repository called config.py and write it as such:
 
 ![image](https://user-images.githubusercontent.com/101044075/217452803-ef689ce3-3837-4987-a211-81ddb7b080db.png)
 
